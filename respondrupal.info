@@ -1,0 +1,3 @@
+name = Responsive drupal base install 
+core = 7.x
+description = Get started fast on a site build.
